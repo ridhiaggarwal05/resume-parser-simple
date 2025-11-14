@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Data Analyst",
+        "skills_required": ["python", "sql", "excel", "power bi"]
+    },
+    {
+        "id": 2,
+        "title": "Machine Learning Intern",
+        "skills_required": ["python", "numpy", "pandas", "machine learning"]
+    },
+    {
+        "id": 3,
+        "title": "NLP Research Intern",
+        "skills_required": ["nlp", "text processing", "python"]
+    }
+]
